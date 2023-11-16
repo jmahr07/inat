@@ -3,6 +3,8 @@ Learning data visualization with R using data from iNaturalist. This is a collec
 
 **iNat data** = *data.csv* | **Weather data** = *weather.csv*
 
+Also new to github so let me know if I am doing something wrong.
+
 ***
 
 ## Here are some highlights:
