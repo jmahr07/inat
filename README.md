@@ -1,7 +1,8 @@
 # iNat
-Learning data visualization with R using data from iNaturalist. This is a collection of some of the things I have made.
+Began learning data visualization with R using data from iNaturalist last year. This is a collection of some of the things I have made.
 
-#### **iNat data** = *data.csv* | **Weather data** = *weather.csv*
+- **iNat data** = *data.csv* 
+- **Weather data** = *weather.csv*
 
 Also new to github so let me know if I am doing something wrong.
 
