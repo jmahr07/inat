@@ -6,5 +6,5 @@ Learning data visualization with R using data from iNaturalist. This is a collec
 ***
 
 ## Here are some highlights:
-### Nov. 2022 - [Squirrels](squirrels/squirrel.final.R)
+### Nov. 2022 - [Squirrels](squirrels/)
 ![Data visualization for the "Squirrels" project](squirrels/squirrels.png)
