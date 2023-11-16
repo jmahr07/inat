@@ -13,3 +13,6 @@ Also new to github so let me know if I am doing something wrong.
 
 ### Nov. 2022 - [Observations & Weather](obs_weather/)
 ![Data visualization for the "Obs_Weather" project](obs_weather/weather.png)
+
+### Dec. 2022 - [Observations & Rainfall](raincloud/)
+![Data visualization for the "Raincloud" project](raincloud/PRCP_aug.png)
