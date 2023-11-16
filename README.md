@@ -22,3 +22,6 @@ Also new to github so let me know if I am doing something wrong.
 
 ### Nov. 2022 - [Class Observations Over Time](class_count/)
 ![Data visualization for the "Class_Count" project](class_count/classcount.png)
+
+### Nov. 2022 - [Top Birds by Species & Order](top_birds/)
+![Data visualization for the "Top_Birds" project](top_birds/topbirds.png)
