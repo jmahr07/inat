@@ -7,9 +7,12 @@ Also new to github so let me know if I am doing something wrong.
 
 ***
 
-## Here are some highlights in no particular order:
+## Here they are in no particular order:
 ### Nov. 2022 - [Squirrels](squirrels/)
 ![Data visualization for the "Squirrels" project](squirrels/squirrels.png)
+
+### Dec. 2022 - [Observation Stats](five_number/)
+![Data visualization for the "Five_Number" project](five_number/stats_obs.png)
 
 ### Nov. 2022 - [Observations & Weather](obs_weather/)
 ![Data visualization for the "Obs_Weather" project](obs_weather/weather.png)
