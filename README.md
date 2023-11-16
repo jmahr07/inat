@@ -16,3 +16,6 @@ Also new to github so let me know if I am doing something wrong.
 
 ### Dec. 2022 - [Observations & Rainfall](raincloud/)
 ![Data visualization for the "Raincloud" project](raincloud/PRCP_aug.png)
+
+### Dec. 2022 - [Class & Temperature](class_temp/)
+![Data visualization for the "Class_Temp" projecct](class_temp/class_temp.png)
