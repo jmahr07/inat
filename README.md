@@ -1,6 +1,8 @@
 # iNat
 Learning data visualization with R using data from iNaturalist. This is a collection of some of the things I have made.
 
+iNat data = ![data.csv](data.csv) | Weather data = ![weather.csv](weather.csv!)
+
 ***
 
 ## Here are some highlights:
