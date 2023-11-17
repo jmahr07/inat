@@ -4,7 +4,7 @@ Began learning data visualization with R using data from iNaturalist. This is a 
 - **iNat data** = *data.csv* 
 - **Weather data** = *weather.csv*
 
-New to github so let me know if I am doing something wrong.
+Find more recent things in [gbif](https://github.com/jmahr07/gbif) and [tidytuesday](https://github.com/jmahr07/tidytuesday) repos.
 
 ***
 
